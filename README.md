@@ -1,5 +1,5 @@
 ---
-경동훈 / Kyoung Dong-Hun
+# 경동훈 / Kyoung Dong-Hun
 ---
 안녕하세요. <br>
 음악 전공을 통해 논리적 사고와 창의성을 기르며, 완성도 높은 결과물을 만들때 즐거움을 느꼈습니다. <br> 
@@ -9,7 +9,7 @@
 
 email : ddjsjs12@naver.com
 
-### 기술 스택
+# 기술 스택
 
 #### 프론트엔드
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
