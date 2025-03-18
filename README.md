@@ -9,22 +9,29 @@
 email : ddjsjs12@naver.com
 
 ---
-기술 스택
+### 기술 스택
 
+#### 프론트엔드
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?logo=java&logoColor=white)  
+![Thymeleaf Layout Dialect](https://img.shields.io/badge/Thymeleaf%20Layout%20Dialect-005F0F?logo=java&logoColor=white)  
 
-백엔드
+#### 백엔드
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring&logoColor=white)  
+![Lombok](https://img.shields.io/badge/Lombok-2C3E50?logo=java&logoColor=white)  
+![JWT](https://img.shields.io/badge/JWT-000000?logo=java&logoColor=white)  
+![QueryDSL](https://img.shields.io/badge/QueryDSL-0F4C81?logo=java&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)  
 
+#### 데이터베이스
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?logo=spring&logoColor=white)
 
+#### 서버/배포
+![AWS EB](https://img.shields.io/badge/AWS%20EB-232F3E?logo=amazonaws&logoColor=white)  
+![AWS SDK S3](https://img.shields.io/badge/AWS%20SDK%20S3-232F3E?logo=amazonaws&logoColor=white)
 
-
-프론트엔드
-
-
-
-
-데이터베이스
-
-
-AWS
 ---
+자격증
+---
+리눅스 마스터 2급 (2024/06/289)
 
