@@ -7,13 +7,15 @@
 웹 애플리케이션의 논리와 체계적인 구현에 매료되어, 지금은 백엔드 개발자로 성장 중입니다.<br>
 소통과 끊임없는 탐구로 회사에 ‘물길’을 만들어가는 개발자가 되겠습니다. <br>
 
-email : ddjsjs12@naver.com
+email : ehdgns206@naver.com
 
 # 기술 스택
 
 #### 프론트엔드
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?logo=java&logoColor=white)
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 
 #### 백엔드
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring&logoColor=white)
